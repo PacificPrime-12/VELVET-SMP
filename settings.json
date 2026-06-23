@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "VelvetSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "VelvetSMPS3.play.hosting",
+    "port": 23262,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "salo X-ray use karna mat nhi tho g..",
+        "Mujhe Velvet smp mein PacificPrime ne dala h",
+        "rules breake mat karna bee!"
       ]
     },
     "chat-log": true,
