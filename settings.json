@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "VelvetSMP",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "salo X-ray use kiya tho G.....",
+        "Mujhe PacificPrime ne banaya h",
+        "Play fair Kuch bhi rules ke against kiya tho ban milega"
       ]
     },
     "chat-log": true,
